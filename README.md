@@ -4,14 +4,19 @@ Zumo robot control code for Raspberry PI and Wiimote
 
 ### Hardware
 
+Basics:
+
 * Raspberry PI (i.e. the PI Zero)
-* pHAT explorerhat from pimoroni
+* pHAT explorerhat from Pimoroni
 * Bluetooth USB dongle (£1 type is OK)
-* zumo robot kit
+* Wiimote
+
+Robot-parts:
+
+* Zumo robot kit from Pimoroni
 * 2x 1:50 micro metal gear-motors
 * 1x 3A Hobbywing UBEC 5v
-* 4x jumper cables
-* wiimote
+* 4x Jumper cables
 
 #### Connections
 
@@ -27,6 +32,13 @@ Connect the male end of your jumper cables into Motors [1 +/- and 2 +/-]
 ### Installation
 
 #### For installing on Raspbian:
+
+Clone the repo:
+
+```
+cd /home/pi/
+git clone https://github.com/alexellis/zumopi.git
+```
 
 ```
 apt-get install bluez
