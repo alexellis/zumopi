@@ -1,6 +1,9 @@
 zumopi
 =================
-Zumo robot control code for Raspberry PI and Wiimote
+Use a Wiimote and explorer pHAT to control your Polulu Zumo Robot!
+
+![Zumo robot from the side](https://raw.githubusercontent.com/alexellis/zumopi/master/media/zumo.jpg)
+
 
 ### Hardware
 
