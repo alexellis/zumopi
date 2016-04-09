@@ -10,13 +10,13 @@ Use a Wiimote and explorer pHAT to control your Polulu Zumo Robot!
 Basics:
 
 * Raspberry PI (i.e. the PI Zero)
-* pHAT explorerhat from Pimoroni
+* pHAT explorerhat from [Pimoroni](https://shop.pimoroni.com/products/explorer-phat)
 * Bluetooth USB dongle (£1 type is OK)
 * Wiimote
 
 Robot-parts:
 
-* Zumo robot kit from Pimoroni
+* Zumo robot kit from [Pimoroni](https://shop.pimoroni.com/products/zumo-chassis-kit-no-motors)
 * 2x 1:50 micro metal gear-motors
 * 1x 3A Hobbywing UBEC 5v
 * 4x Jumper cables
