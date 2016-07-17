@@ -4,6 +4,19 @@ Use a Wiimote and explorer pHAT to control your Polulu Zumo Robot!
 
 ![Zumo robot from the side](https://raw.githubusercontent.com/alexellis/zumopi/master/media/zumo.jpg)
 
+#### Are you here from Linux User and Developer?
+
+If you're here from having read the magazine tutorial series "Build an Explorer Robot" then thanks for stopping by.
+
+You will find the code for part 3 of the tutorial here:
+
+* [Part 3 code](https://github.com/alexellis/explorerrobot)
+
+If you haven't got that far yet, then please feel free to experiement with the guide below and let me know how you get on.
+
+#### Comments, feedback and suggestions
+
+You can get in touch with me on Twitter [@alexelisuk](https://twitter.com/alexellisuk/) or over on the [blog](http://blog.alexellis.io/). If you find a problem. with part of this repositiory then please raise an issue. 
 
 ### Hardware
 
@@ -31,6 +44,7 @@ Take your 4x jumper cables and cut off one end of each wire, then solder the wir
 
 Connect the male end of your jumper cables into Motors [1 +/- and 2 +/-]
 
+![UBEC image](https://raw.githubusercontent.com/alexellis/zumopi/master/media/ubec.jpeg)
 
 ### Installation
 
